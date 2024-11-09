@@ -11,6 +11,7 @@ function getDataFromURL (){
         .then(res => res.json())
         .then(out => logit(out))
         .catch(err => console.log(err)); 
+        // testing123
 }
 
 
