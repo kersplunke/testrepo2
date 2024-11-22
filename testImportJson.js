@@ -12,6 +12,7 @@ function getDataFromURL (){
         .then(out => logit(out))
         .catch(err => console.log(err)); 
         // testing123
+        // testing 456
 }
 
 
